@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Capitulo1_Proyecto1</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Titulo">My Nanodegree Super Apps!</string>
+    <string name="font_family">Helvetica</string>
+    <string name="font_button_family">sans-serif-medium</string>
+</resources>
